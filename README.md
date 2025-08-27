@@ -19,3 +19,10 @@ This project is an interactive Excel dashboard designed to analyze hospital emer
 7.	Patients by Age Group – Categorization of patients by age brackets.
 8.	Department Referrals – Number of patients referred to each department.
  
+## Project Insights
+•	ER handled 464 patients in July, with a 34.7 min average wait time.
+•	Patient satisfaction is high (4.99/5) despite waiting times.
+•	Slightly more male patients (51%) compared to female (49%).
+•	58% patients attended on time, while 42% experienced delays.
+•	20–29 age group had the highest patient count, showing younger patients rely more on ER services.
+•	Most patients did not require department referrals, but General Practice and Orthopedics were the top referred departments.

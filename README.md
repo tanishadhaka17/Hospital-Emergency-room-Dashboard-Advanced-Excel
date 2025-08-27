@@ -1,7 +1,7 @@
 # Hospital-Emergency-room-Dashboard-Advanced-Excel
 This project is an interactive Excel dashboard designed to analyze hospital emergency room performance. It provides insights into patient flow, waiting times, satisfaction levels, and department referrals.. The dashboard allows stakeholders to monitor key performance indicators (KPIs), track trends over months, and make data-driven decisions to improve hospital services.
 
-##Process (Step by Step)
+## Process (Step by Step)
 1.	Data Collection – Gathered sample hospital emergency data.
 2.	Data Cleaning – Removed duplicates, handled missing values, and standardized columns.
 3.	Data Preparation – Added calculated fields (e.g., average wait time, percentages).

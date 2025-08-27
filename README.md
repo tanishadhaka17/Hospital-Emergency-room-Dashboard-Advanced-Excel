@@ -26,3 +26,9 @@ This project is an interactive Excel dashboard designed to analyze hospital emer
 •	58% patients attended on time, while 42% experienced delays.
 •	20–29 age group had the highest patient count, showing younger patients rely more on ER services.
 •	Most patients did not require department referrals, but General Practice and Orthopedics were the top referred departments.
+
+## ✅ Final Conclusion
+This dashboard gives a comprehensive overview of hospital emergency room operations. It helps hospital administrators track performance efficiency, patient satisfaction, and resource allocation. With further integration of real-time data, this dashboard can serve as a decision-making tool to improve ER service quality and reduce waiting times.
+
+
+

@@ -9,4 +9,13 @@ This project is an interactive Excel dashboard designed to analyze hospital emer
 5.	Dashboard Design – Used Excel charts (bar, pie, donut) and slicers (for months & year selection).
 6.	Formatting – Applied professional layout, icons, and color coding for better readability.
 
+## Key Performance Indicators (KPIs)
+1.	No. of Patients – Total patients visiting ER.
+2.	Average Wait Time (mins) – Time patients wait before being attended.
+3.	Patient Satisfaction Score – Average rating given by patients.
+4.	Admission Status – % of admitted vs. non-admitted patients.
+5.	Patient Attend Status – On-time vs. delayed attendance.
+6.	Patients by Gender – Distribution of male vs. female patients.
+7.	Patients by Age Group – Categorization of patients by age brackets.
+8.	Department Referrals – Number of patients referred to each department.
  

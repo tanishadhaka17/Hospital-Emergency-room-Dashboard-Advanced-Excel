@@ -1,4 +1,4 @@
-# Hospital-Emergency-room-Dashboard
+# Hospital ER Project
 This project is an interactive Excel dashboard designed to analyze hospital emergency room performance. It provides insights into patient flow, waiting times, satisfaction levels, and department referrals.. The dashboard allows stakeholders to monitor key performance indicators (KPIs), track trends over months, and make data-driven decisions to improve hospital services.
 
 ## Process (Step by Step)
